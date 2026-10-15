@@ -1,0 +1,11 @@
+hytaleanim.config.title=Hytale Block Animations
+hytaleanim.config.miningAnimation=Mining animation
+hytaleanim.config.miningAnimation.tooltip=Block wobbles while you mine it
+hytaleanim.config.animationSpeed=Animation speed
+hytaleanim.config.animationSpeed.tooltip=Playback speed of the mining wobble (1.0 = normal)
+hytaleanim.config.animationIntensity=Animation intensity
+hytaleanim.config.animationIntensity.tooltip=How strong the wobble is
+hytaleanim.config.shrinkOnBreak=Shrink on break
+hytaleanim.config.shrinkOnBreak.tooltip=Block shrinks into the dropped item
+hytaleanim.config.shrinkDuration=Shrink duration (ticks)
+hytaleanim.config.shrinkDuration.tooltip=20 ticks = 1 second
