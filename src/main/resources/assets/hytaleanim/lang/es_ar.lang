@@ -1,0 +1,7 @@
+hytaleanim.config.title=Animaciones de bloques estilo Hytale
+hytaleanim.config.miningAnimation=Animación al picar
+hytaleanim.config.miningAnimation.tooltip=El bloque se aplasta con cada golpe al picarlo
+hytaleanim.config.animationSpeed=Velocidad de la animación
+hytaleanim.config.animationSpeed.tooltip=Velocidad del rebote por golpe (1.0 = normal)
+hytaleanim.config.animationIntensity=Intensidad de la animación
+hytaleanim.config.animationIntensity.tooltip=Qué tan fuerte es el movimiento
