@@ -1,10 +1,12 @@
-[
-  {
-    "modid": "hytaleanim",
-    "name": "Hytale Block Animations",
-    "description": "Animación de picado estilo Hytale y bloques que se achican al romperse. Configurable in-game.",
-    "version": "${version}",
-    "mcversion": "${mcversion}",
-    "authorList": ["TuNombre"]
-  }
-]
+[{
+	"modid": "${mod_id}",
+	"name": "${mod_name}",
+	"version": "${mod_version}",
+	"mcversion": "1.12.2",
+	"description": "${mod_description}",
+	"authorList": ["${mod_authors}"],
+	"credits": "${mod_credits}",
+	"url": "${mod_url}",
+	"updateJSON": "${mod_update_json}",
+	"logoFile": "${mod_logo_path}"
+}]
