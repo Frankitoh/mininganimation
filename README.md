@@ -8,3 +8,5 @@ Mod **solo cliente** (RetroFuturaGradle):
 ## Compilar / probar
 - `./gradlew runClient` para probar
 - `./gradlew build` → jar en `build/libs/`
+
+> Requiere **MixinBooter** (1.12.2) instalado en la carpeta `mods`.
