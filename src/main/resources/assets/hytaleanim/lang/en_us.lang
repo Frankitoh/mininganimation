@@ -1,0 +1,9 @@
+hytaleanim.config.title=Hytale Block Animations
+hytaleanim.config.miningAnimation=Mining animation
+hytaleanim.config.miningAnimation.tooltip=Block squashes on every hit while you mine it
+hytaleanim.config.animationSpeed=Animation speed
+hytaleanim.config.animationSpeed.tooltip=Speed of the hit rebound (1.0 = normal)
+hytaleanim.config.animationIntensity=Animation intensity
+hytaleanim.config.animationIntensity.tooltip=How strong the wobble is
+hytaleanim.config.hitParticles=Hit particles
+hytaleanim.config.hitParticles.tooltip=Block chips fly off on every hit
